@@ -1,3 +1,8 @@
+# AES Encryption Implementation using pure python
+
+## 1 MB encrypted in 20 seconds.
+
+
 # Group Memebers
 
 -  Nahom Derese Ugr/22514/13
